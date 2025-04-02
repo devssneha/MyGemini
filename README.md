@@ -1,0 +1,2 @@
+# MyGemini
+Gemini AI clone
