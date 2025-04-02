@@ -1,5 +1,5 @@
 # MyGemini
-An exact clone of the Google Gemini AI made with ReactJS and Gemini 2.5 API
+An exact clone of the Google Gemini AI made with ReactJS and Gemini 2.5 API\
 Featuring smooth and seamless user experience
 
 ![GeminiClone_img1](https://github.com/user-attachments/assets/33ae0d35-20ab-4d15-a664-05b0a148b506)
